@@ -1,2 +1,3 @@
 # start
-this is my first git repository
+This is my First Git Repository
+Author -Laxmi
